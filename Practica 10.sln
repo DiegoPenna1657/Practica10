@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "Practica 10", "C:\Users\Diego\source\repos\Practica 10\Practica 10\Practica 10.phpproj", "{FC37A662-DB0C-4F26-9854-E3729360A414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC37A662-DB0C-4F26-9854-E3729360A414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC37A662-DB0C-4F26-9854-E3729360A414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC37A662-DB0C-4F26-9854-E3729360A414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC37A662-DB0C-4F26-9854-E3729360A414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBCB1C1F-BEDA-4CC7-9496-EC62322DADC2}
+	EndGlobalSection
+EndGlobal
